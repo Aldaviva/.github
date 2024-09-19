@@ -1,1 +1,1 @@
-<img src="images/hacked.webp" width="50%" alt="Hacked" /><img src="images/another-victim.webp" width="50%" alt="Another Victim" />
+<img src="https://github.com/Aldaviva/.github/raw/refs/heads/master/.github/images/hacked.webp" width="50%" alt="Hacked" /><img src="https://github.com/Aldaviva/.github/raw/refs/heads/master/.github/images/another-victim.webp" width="50%" alt="Another Victim" />
