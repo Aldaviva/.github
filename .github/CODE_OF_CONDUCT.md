@@ -1,2 +1,2 @@
 # Code of Conduct
-- Everyone be nice please.
+Everyone be nice please.
